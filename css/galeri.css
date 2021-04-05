@@ -1,0 +1,13 @@
+img-fluid img-thumbnail{
+        margin-top: 25px;
+        box-shadow: 5px 5px 5px #aaaaaa;
+        padding-bottom: 10px;
+      }
+      body{
+        background-color: #F0E68C;
+        margin: 0;
+      }
+      .container{
+        background-color: #F0E68C;
+        padding-bottom: 20px;
+      }

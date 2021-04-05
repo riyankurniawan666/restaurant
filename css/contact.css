@@ -1,0 +1,19 @@
+ body{
+        background-color: #F0E68C;
+    }
+    .btn{
+      font-size: 30px;
+      color: black;
+      display: flex;
+      margin: 0;
+      align-items: center;
+    }
+    .row{
+      margin: 0px;
+      margin-left: 0px;
+      margin-left: 0px;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
